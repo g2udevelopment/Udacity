@@ -7,6 +7,6 @@ This repository is related to learning on udacity. It contains projects and file
 
 ## Projects
 
-The projects folder contains completed projects. On Udacity projects take you through a complete use case.
+The projects folder contains completed projects by me. On Udacity projects take you through a complete use case.
 
 
